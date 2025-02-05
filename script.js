@@ -29,6 +29,12 @@ const projects = [
         image: "img/jam.png",
         description: "A simple digital analog clock.",
         link: "https://xxxtasy.github.io/jam-unik/"
+    },
+    {
+        title: "Calculator",
+        image: "img/kalkulator.png",
+        description: "A small calculation calculator.",
+        link: "https://xxxtasy.github.io/kalkulator/"
     }
 ];
 
