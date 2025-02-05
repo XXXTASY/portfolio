@@ -56,14 +56,6 @@ nav {
   font-size: 1.1rem;
 }
 
-nav {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  padding-top: 1rem;
-  font-size: 1.1rem;
-}
-
 nav a {
   color: #fff;
   text-decoration: none;
